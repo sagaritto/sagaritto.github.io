@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+layout: single
 permalink: /about/
 ---
 
@@ -7,7 +8,7 @@ permalink: /about/
 
 ## Who I Am
 
-Hello! I'm Sagar Ghimire, an educator and developer based in Nepal. I'm passionate about language. 
+Hello! I'm Sagar Ghimire, an educator and developer based in Nepal. I'm passionate about language and technology.
 
 ## What I Do
 
