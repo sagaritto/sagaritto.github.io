@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sagar Ghimire"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an educator."
+  location         : "Nepal"
+  email            : "sagar@vhspokhara.org"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -166,6 +166,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _portfolio
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -235,6 +236,12 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:title/
 
 # Pagination with jekyll-paginate-v2
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
