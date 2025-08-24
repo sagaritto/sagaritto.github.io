@@ -7,7 +7,7 @@ permalink: /about/
 
 ## Who I Am
 
-Hello! I'm Sagar Ghimire, an educator and developer based in Nepal. I'm passionate about using technology to enhance education and make learning more accessible to everyone.
+Hello! I'm Sagar Ghimire, an educator and developer based in Nepal. I'm passionate about language. 
 
 ## What I Do
 
